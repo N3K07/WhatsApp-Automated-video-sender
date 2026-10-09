@@ -1,0 +1,13 @@
+ChromeProfile/
+ToSend/
+Sent/
+Logs/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+config.json
+status.json
+STOP_REQUESTED
+*.log

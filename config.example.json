@@ -1,0 +1,27 @@
+{
+    "recipient": "",
+    "folders": {
+        "to_send": "ToSend",
+        "sent": "Sent",
+        "logs": "Logs"
+    },
+    "chrome": {
+        "debug_port": 9222,
+        "profile_directory": "ChromeProfile"
+    },
+    "automation": {
+        "poll_interval_seconds": 3,
+        "file_stable_seconds": 3,
+        "max_retries": 3,
+        "retry_delay_seconds": 10,
+        "page_timeout_seconds": 30
+    },
+    "video_extensions": [
+        ".mp4",
+        ".mov",
+        ".mkv",
+        ".avi",
+        ".webm",
+        ".m4v"
+    ]
+}
